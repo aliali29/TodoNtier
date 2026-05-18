@@ -1,0 +1,15 @@
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\bin\Debug\net10.0\Business.deps.json
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\bin\Debug\net10.0\Business.dll
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\bin\Debug\net10.0\Business.pdb
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\bin\Debug\net10.0\DataAccess.dll
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\obj\Debug\net10.0\Business.csproj.AssemblyReference.cache
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\obj\Debug\net10.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\obj\Debug\net10.0\Business.AssemblyInfoInputs.cache
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\obj\Debug\net10.0\Business.AssemblyInfo.cs
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\obj\Debug\net10.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\obj\Debug\net10.0\Business.csproj.Up2Date
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\obj\Debug\net10.0\Business.dll
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\obj\Debug\net10.0\refint\Business.dll
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\obj\Debug\net10.0\Business.pdb
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Business\obj\Debug\net10.0\ref\Business.dll
