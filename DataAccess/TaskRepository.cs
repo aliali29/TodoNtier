@@ -25,6 +25,16 @@ namespace NTierTodoApp.DataAccess
         { 
             return tasks.FirstOrDefault(t => t.Id == id); 
         } 
+
+        public void UpdateTitle(int id, string title)
+        {
+            var task = GetById(id);
+
+            if (task != null)
+            {
+                task.Title = title;
+            }
+        }
  
         /// <summary>
         /// Deletes the task with the specified <paramref name="id"/> from the in-memory list.

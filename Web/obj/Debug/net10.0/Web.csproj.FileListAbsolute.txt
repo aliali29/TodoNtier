@@ -101,3 +101,4 @@ C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Web\obj\Debug\net
 C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Web\obj\Debug\net10.0\Web.pdb
 C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Web\obj\Debug\net10.0\Web.genruntimeconfig.cache
 C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Web\obj\Debug\net10.0\ref\Web.dll
+C:\Users\Evo.Store\Projects\TheUniversityProjects\TodoSolution\Web\obj\Debug\net10.0\Web.sourcelink.json

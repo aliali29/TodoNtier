@@ -35,6 +35,14 @@ namespace NTierTodoApp.Business
             if (task != null) 
                 task.IsComplete = true; 
         } 
+
+        public void EditTask(int id, string title)
+        {
+            if (string.IsNullOrWhiteSpace(title))
+                return;
+
+            repository.UpdateTitle(id, title);
+        }
  
         /// <summary>
         /// Deletes the task with the specified <paramref name="id"/> by delegating
